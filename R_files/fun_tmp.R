@@ -74,3 +74,5 @@ library(tidylog)
 crayon <- function(x) cat(green$bold(x), sep = "\n")
 options("tidylog.display" = list(crayon))
 #version[['version.string']]
+
+# dplyr
